@@ -1,0 +1,56 @@
+#navlist_sub div{float: left;width: 15%;margin: 0 0.8%;padding: 0 0 10px;}
+#navlist_sub h5{padding: 15px 0 0 0;width: 100%;font-weight: 900;clear: both;font-size: 20px;}
+#navlist_sub li a{padding: 0 3px;font-size: 14px;}
+
+.zhen_slide{position: relative;height: 225px;width: 990px;overflow: hidden;}
+#zhen_slide{height: 225px;width: 1035px;overflow: hidden;position: relative;}
+.zxlb{width: 4140px;overflow: hidden;}
+#zhen_slide ul{display: block;position: relative;margin: 0;padding: 0;}
+#zhen_slide li{display: inline;height: 225px;overflow: hidden;position: relative;width: 345px;float: left;padding: 0;display: inline-block;}
+#zhen_slide li a{width: 300px;height: 225px;display: block;float: left;margin: 0;text-align: center;position: relative;overflow: hidden;}
+#zhen_slide li a .os{width: 300px;height: 250px;background: #000;position: absolute;top: 0;left: 0;z-index: 1;opacity: 0.2;}
+#zhen_slide li a img{height: 300px;width: 300px;margin-top: -37px;transition: all 0.5s ease-in-out;}
+#zhen_slide li:hover img{transform-origin: center center;transform:scale(1.1);}
+/*#zhen_slide li a p{display: none;}*/
+#zhen_slide li:hover a p{display: none;}
+#zhen_slide li:hover a .os{opacity: -0.6}
+.imgLoad{background: url("../images/load.png");}
+.zhen_slide .prevBtn{z-index: 3;width: 40px;height: 50px;position: absolute;background-color: #000;opacity: 0.3;overflow: hidden;text-indent: -9999em;top: 87.5px;left: 0;cursor: pointer;}
+.zhen_slide .nextBtn{z-index: 3;width: 40px;height: 50px;position: absolute;background-color: #000;opacity: 0.3;overflow: hidden;text-indent: -9999em;top: 87.5px;right: 0px;cursor: pointer;}
+.zhen_slide .prevBtn i{display: block;background: url("../images/arrow.png")no-repeat;width: 20px;height: 40px;margin: 2px 0 0 11px;background-position: 0 -7px;}
+.zhen_slide .nextBtn i{display: block;background: url("../images/arrow.png")no-repeat;width: 20px;height: 40px;margin: 2px 0 0 11px;background-position: -50px -7px;}
+i{font-style: normal;}
+#zhen_slide li a .os{width: 300px;height: 250px;background: #000;position: absolute;top: 0;left: 0;z-index: 1;opacity: 0.2;}
+#zhen_slide li a p.line2{font-size: 20px;}
+#zhen_slide li a p{color: #fff;position: absolute;left: 0;top: 50%;font-size: 26px;line-height: 120%;display: block;width: 280px;padding: 0 30px;height: 75px;margin-top: -30px;text-align: center;z-index: 3;}
+#zhen_slide li a p span{font-size: 12px;}
+
+.zhen_n8{padding: 0;height: 77px;}
+.zhen_n8 a{float: left;width: 99px;text-align: center;text-decoration: none;font-size: 14px;}
+.zhen_n8 a img{width: 50px;height: 50px;margin: 0 auto 5px;background: #f2f2f2;border-radius: 50%;}
+
+.ui_title{height: 35px;border-bottom: 1px solid #eeeeee;position: relative;}
+.mt30{margin-top: 30px;}
+.ui_title_wrap{line-height: 30px;font-size: 20px;}
+.ui_title_wrap h2{font-size: 20px;width: 80px;float: left;margin-top: 0;}
+.ui_title_wrap .right{float: right;margin: 0 0 0 20px;font-size: 16px;}
+.ui_title_wrap .on{padding-bottom: 10px;}
+
+.zhen_list_living{width: 1111px;}
+.zhen_list_living li{float: left;margin: 0 23px 23px 0;text-align: center;width: 230px;overflow: hidden;}
+.zhen_list_living li a.pic{display: block;overflow: hidden;text-decoration: none;}
+.zhen_list_living li a.pic i{display: block;overflow: hidden;width: 230px;height: 230px;}
+.zhen_list_living li a.pic i img{width: 230px;height: 230px;transition: all 0.5s ease-in-out;}
+.zhen_list_living li:hover img{transform-origin: center center;transform:scale(1.1);}
+.zhen_list_living li a.pic p{font-size: 14px;overflow: hidden;padding: 5px 0 0;text-align: center;text-overflow: ellipsis;white-space: nowrap;width: 230px;}
+.zhen_list_living li a.pic span{color: #ff6767;}
+.zhen_list_living li a.buy{border: 1px solid #ff6767;border-radius: 15px;color: #ff6767;display: block;font-size: 12px;height: 20px;margin: 10px auto 0;padding: 0 10px;text-decoration: none;width: 50px;line-height: 20px;}
+.zhen_list_living li a.buy:hover{background: #ff6767;color: white;}
+
+.ui_loading {height: 44px;line-height: 44px;overflow: hidden;}
+.ui_loading a{display: block;border-radius: 5px;text-align: center;font-size: 18px;color: #ff6767;background-color: #f8f8f8;outline: 0;cursor: pointer;transition: color 0.3s ease-in-out 0.3s,background-color 0.3s ease-in-out 0.3s;}
+.ui_loading a:hover {color: #fff;background-color: #ff9797;}
+
+
+
+

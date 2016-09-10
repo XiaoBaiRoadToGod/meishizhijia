@@ -1,0 +1,27 @@
+.wrap2{margin: auto;}
+.navbar-left{width: 108px;}
+
+.wrap2 li{display: inline-block;line-height: 54px;margin-left: 15px;}
+.logoleft h1{margin: 12px 0 0 15px;height: 30px;line-height: 30px;}
+.logoleft a{background:#ff838b;border-radius: 5px;color: #fff;display: block;font-size: 20px;padding: 0 10px;width: 60px;}
+.nav_wrap2{height: 34px;width: 990px;border-bottom: 1px solid #ff6767;border-top: 1px solid #ff6767;margin: auto;}
+.nav_wrap2 li{float: left;padding: 0 10px;margin: 0;}
+.right{float: right;}
+.nav_wrap2 a.on{color: #ff6767;}
+.nav_wrap2 a{display: block;padding: 0 3px;height: 34px;font-size: 14px;line-height: 34px;}
+ul{margin: 0;padding: 0;}
+.mt10{margin-top: 10px;}
+
+.wrap .w{background-color:#fff;padding: 10px 0; }
+.category_sub{margin: 0 0 30px 0;width: 100%;overflow: hidden;background: #f8f8f8;position: relative;border-top: 1px solid #eeeeee;border-bottom: 1px solid #eeeeee;}
+.category_sub h3{float: left;font-size: 24px;height: 40px;margin-top: -20px;position: absolute;text-align: center;top: 50%;width: 186px;color: #666;}
+.category_sub ul{width: 804px;float: right;background: #fff;margin-bottom: -1px;overflow: hidden;}
+.category_sub li{float: left;position: relative;}
+.category_sub a{float: left;height: 70px;line-height: 64px;width: 133px;border-left: 1px solid #eeeeee;border-bottom: 1px solid #eeeeee;font-size: 20px;text-decoration: none;text-align: center;position: relative;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+.category_sub a:hover{color: #333;background: #f8f8f8;}
+
+
+
+
+
+
