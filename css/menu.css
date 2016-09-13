@@ -31,11 +31,11 @@ i{font-style: normal;}
 .recipe_n10 a img{width: 50px;height: 50px;margin: 0 auto 5px;background: #f2f2f2;border-radius: 50%;}
 #recipeindex_info{margin: 30px 0 0 0;}
 #recipeindex_info_wrap{background: #fff;padding: 10px 0 5px;width: 990px;overflow: hidden;}
-.ui_title{height: 35px;border-bottom: 1px solid #eeeeee;position: relative;}
+.ui_title{height: 35px;position: relative;border-bottom: 1px solid #eeeeee;}
 .ui_title_wrap{line-height: 30px;}
-.ui_title_wrap h3{float: left;font-weight: 400;display: inline-block;font-size: 20px;margin:5px 0 0 20px;padding-bottom: 7px;outline: 0;max-width: 100%;overflow: hidden;text-decoration: none;text-overflow: ellipsis;white-space: nowrap;}
+.ui_title_wrap h3{float: left;font-weight: 400;display: inline-block;font-size: 20px;margin:0 0 0 20px;padding-bottom: 7px;outline: 0;max-width: 100%;overflow: hidden;text-decoration: none;text-overflow: ellipsis;white-space: nowrap;}
 .ui_title_wrap h3 a{color: #666;}
-.ui_title_wrap h3.on{color: #ff6767;border-bottom: 3px solid #ff6767;}
+.ui_title_wrap h3.on{color: #ff6767;border-bottom: 3px solid #ff6767;padding-bottom: 5px;}
 .ui_title_wrap h3.on a{color: #ff6767;}
 .ui_title_wrap h3.on a:visited a{text-decoration: none;}
 .ui_title_wrap .right{float: right;margin-right:  20px;font-size: 16px;color: #666;}
@@ -49,8 +49,10 @@ i{font-style: normal;}
 .big4_list li a i{display: block;overflow: hidden;width: 230px;height: 230px;}
 .big4_list li a img{width: 230px;height: 230px;transition: transform 0.5s ease-in-out;}
 .big4_list li a:hover img{transform-origin: center center;transform: scale(1.1);}
+.big4_list li a:hover p{color: #ff6767;}
 .big4_list li a p{width: 230px;font-size: 18px;line-height: 100%;padding: 8px 0 2px;color: black;}
-.big4_list li a.u{margin: auto;color: #999;font-size: 12px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+.big4_list li a.u{margin: auto;color: #999;font-size: 12px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;margin-top: 5px;}
+.big4_list li a.u:hover{color: #ff6767;}
 
 .ui_loading {height: 44px;line-height: 44px;overflow: hidden;}
 .ui_loading a{display: block;border-radius: 5px;text-align: center;font-size: 18px;color: #ff6767;background-color: #f8f8f8;outline: 0;cursor: pointer;transition: color 0.3s ease-in-out 0.3s,background-color 0.3s ease-in-out 0.3s;}

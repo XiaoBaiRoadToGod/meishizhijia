@@ -93,13 +93,13 @@ a:hover{color: #ff6767;text-decoration: none;}
 .w{width: 990px;margin: 0 auto;}
 .ft1{clear: none;float: left;color: #666;width: 770px;}
 .ft1 .c3b a{color: #f50;font-size: 14px;font-weight: 700;margin-bottom: 6px;}
-.ft1 .c3c{margin-top: 10px;}
+.ft1 .c3c{margin-top: 10px;font-size: 11px;}
 .w_link{padding: 25px 0 0 0;}
 .w_link_url li{float: left;padding: 0 12px 0 0;list-style: none;}
 .w a:hover{color: #ff6767;}
-.ft2 .ft3{clear: none;float: right;text-align: center;margin-top: 15px;height: 105px;}
+.ft2 .ft3{clear: none;float: right;text-align: center;margin-top: 15px;height: 105px;font-size: 11px;}
 .w{width: 990px;margin: 0 auto;}
-.w p{width: 785px;float: left;}
+.w p{width: 785px;float: left;font-size: 11px;margin-top: 10px;}
 .w .right{margin-top: 0;}
 .J-footer-box{font-size: 14px;color: #999;position: relative;}
 .J-footer-box a{color: #999;}
